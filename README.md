@@ -1,5 +1,5 @@
 # 🐾 John Dinh
-**`Computer Engineer (Student/Engineer/)`**
+**`Computer Engineer (Student/Engineer/Tutor)`**
 
 As a computer engineering student, I am committed to expanding my knowledge and skills in front-end development. To achieve this goal, I plan to take relevant online courses to deepen my understanding of technologies such as HTML, CSS, and Javascript. I will also be working on personal projects to improve my skills and to have a portfolio to showcase. Additionally, I will be actively seeking internships as a software developer to gain practical experience and make industry connections.
 
