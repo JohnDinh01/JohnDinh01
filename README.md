@@ -1,7 +1,7 @@
 # 🐾 John Dinh
-**`Computer Scientist (Student/Engineer/Mentor)`**
+**`Computer Engineer (Student/Engineer/)`**
 
-A senior majoring in Computer Science dedicated in learning and practicing my craft as a programmer, in hopes to make a positive impact in the digital world. Coding projects were inspired, collaborated, and built from the ground up. From planning and designing to solving real life problems with code. Check out my projects and follow me on my exciting journey!  
+As a computer engineering student, I am committed to expanding my knowledge and skills in front-end development. To achieve this goal, I plan to take relevant online courses to deepen my understanding of technologies such as HTML, CSS, and Javascript. I will also be working on personal projects to improve my skills and to have a portfolio to showcase. Additionally, I will be actively seeking internships as a software developer to gain practical experience and make industry connections.
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/JohnDinh01/custom-icon-badges -->
@@ -14,19 +14,13 @@ A senior majoring in Computer Science dedicated in learning and practicing my cr
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+
 
 #
 
