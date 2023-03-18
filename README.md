@@ -23,5 +23,8 @@ As a computer engineering student, I am committed to expanding my knowledge and 
 
 
 #
-
+### 📊 Stats
+| <a href="https://github.com/JohnDinh01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnDinh01&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="John's github stats" /></a> | <a href="https://github.com/JohnDinh01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDinh01&layout=compact&theme=vue-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+#  
 
